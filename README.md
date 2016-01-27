@@ -2,9 +2,9 @@
 
 本文收录的文章来自 11 个热门的技术类微信公众号。我们从每个公号中选出了 2015 年最热门的 10 篇技术文章，共 100 多篇精华。涉及的技术包括：Python、Linux、Java、Web前端、数据库、C/C++、安卓开发、iOS开发和PHP开发。除此之外，我们还精选了IT职场、IT趣文 和 极客酷文作为补充。有干货、有笑点、有范！
 
-> 2015 **技术综合**、**IT职场**、**IT趣文** 热门文章 来自微信公众号 **iProgrammer** 「程序员的那些事」分享程序员相关的精选技术文章、教程、职场、工具和行业热点资讯。不定期还会分享IT趣文和趣图，更有难得一见、专为程序员服务的面向对象相亲活动。
-> 
-> ![](http://ww2.sinaimg.cn/small/63918611gw1epb2c92bgyj204604674e.jpg)
+2015 **技术综合**、**IT职场**、**IT趣文** 热门文章 来自微信公众号 **iProgrammer** 「程序员的那些事」分享程序员相关的精选技术文章、教程、职场、工具和行业热点资讯。不定期还会分享IT趣文和趣图，更有难得一见、专为程序员服务的面向对象相亲活动。
+
+![](http://ww2.sinaimg.cn/small/63918611gw1epb2c92bgyj204604674e.jpg)
 
 ### 技术综合
 
@@ -52,9 +52,9 @@
 
 ### Python
 
-> 2015 Python 热门文章 Top 10 来自微信公众号 PythonCoder 人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精选课程、热点资讯。 
-> 
-> ![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)
+2015 Python 热门文章 Top 10 来自微信公众号 PythonCoder 人生苦短，我用 Python。「Python开发者」分享 Python 相关的技术文章、工具资源、精选课程、热点资讯。 
+
+![](http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg)
 
 * 《[一篇文章让你全面了解机器学习](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402369096&idx=1&sn=8fda738a80bd428fd732f4156f140848&scene=21#wechat_redirect)》
 * 《[一个 11 行 Python 代码实现的神经网络](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=402047084&idx=2&sn=68cc184e97a691777ea169ef400bb9f4&scene=21#wechat_redirect)》
@@ -69,9 +69,9 @@
 
 ### Linux
 
-> 2015 Linux 热门文章 Top 10 来自微信公众号 LinuxHub 「Linux爱好者」专注分享 Linux 相关内容，包括：业界动态、工具资源、使用技巧、课程和书籍等。
-> 
-> ![](http://ww4.sinaimg.cn/small/63918611gw1epb2ca88pfj20460463ym.jpg)
+2015 Linux 热门文章 Top 10 来自微信公众号 LinuxHub 「Linux爱好者」专注分享 Linux 相关内容，包括：业界动态、工具资源、使用技巧、课程和书籍等。
+
+![](http://ww4.sinaimg.cn/small/63918611gw1epb2ca88pfj20460463ym.jpg)
 
 * 《[Debian GNU/Linux 创始人不幸辞世](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=412925948&idx=1&sn=66c0d1983e90bde11a38b83fe659bba5&scene=21#wechat_redirect)》 
 * 《[Linux 4.0 彻底告别计算机重启时代](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=206183631&idx=1&sn=18e1d54660afefa9d86ce736fad8e9cd&scene=21#wechat_redirect)》
@@ -86,9 +86,9 @@
 
 ### Java
 
-> 2015 Java 热门文章 Top 10 来自微信公众号 importnew 「ImportNew」专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
-> 
-> ![](http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg)
+2015 Java 热门文章 Top 10 来自微信公众号 importnew 「ImportNew」专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
+
+![](http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg)
 
 * 《[甲骨文紧咬谷歌的那 9 行 Java 代码](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=400605548&idx=1&sn=da3fc218ebaec4ddcdfac4f4d63421e8&scene=21#wechat_redirect)》 
 * 《[Eclipse 的 Debug 介绍与技巧](http://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=401087847&idx=1&sn=5d7eb010d7c3fa3b4594c978d726e906&scene=21#wechat_redirect)》 
@@ -103,9 +103,9 @@
 
 ### Web前端
 
-> 2015 Web前端 热门文章 Top 10 来自微信公众号 FrontDev 「前端大全」专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5技术文章、工具资源、精选课程和Web技术领域热点资讯。
-> 
-> ![](http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg)
+2015 Web前端 热门文章 Top 10 来自微信公众号 FrontDev 「前端大全」专注分享Web前端相关的内容，包括 JavaScript, CSS 和 HTML5技术文章、工具资源、精选课程和Web技术领域热点资讯。
+
+![](http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg)
 
 * 《[JavaScript 正在蚕食着开发领域](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=401090008&idx=1&sn=e76cd8eb34a57294c534acd910a30f70&scene=21#wechat_redirect)》 
 * 《[Bootstrap 4 重大更新，亮点解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=210046417&idx=1&sn=f81f8b97d5774cf68811c0d6c9617e2f&scene=21#wechat_redirect)》
@@ -120,9 +120,9 @@
 
 ### 数据库
 
-> 2015 数据库 热门文章 Top 10 来自微信公众号 DBDevs 「数据库开发」专注分享数据库相关内容，包括：各种主流DB的最佳实践、数据库基础知识、性能优化、数据安全等。
-> 
-> ![](http://ww4.sinaimg.cn/small/63918611gw1epb2c5mk0jj2046046my6.jpg)
+2015 数据库 热门文章 Top 10 来自微信公众号 DBDevs 「数据库开发」专注分享数据库相关内容，包括：各种主流DB的最佳实践、数据库基础知识、性能优化、数据安全等。
+
+![](http://ww4.sinaimg.cn/small/63918611gw1epb2c5mk0jj2046046my6.jpg)
 
 * 《[数据库专家Michael Stonebraker获得2014年图灵奖](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=204294272&idx=1&sn=8eb4c8d50033b4402e2dc0dff0fd3f3c&scene=21#wechat_redirect)》
 * 《[Select count(*) 和 Count（1）的区别和执行方式](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=401093629&idx=1&sn=076bd0a3f88bbd075504d87c7fb0eb14&scene=21#wechat_redirect)》
@@ -138,9 +138,9 @@
 
 ### C/C++
 
-> 2015 C/C++ 热门文章 Top 10 来自微信公众号 cppFans 「CPP开发者」专注分享C/C++开发相关的技术文章和工具资源。
-> 
-> ![](http://ww1.sinaimg.cn/small/63918611gw1epb2c4w55aj2046046t8t.jpg)
+2015 C/C++ 热门文章 Top 10 来自微信公众号 cppFans 「CPP开发者」专注分享C/C++开发相关的技术文章和工具资源。
+
+![](http://ww1.sinaimg.cn/small/63918611gw1epb2c4w55aj2046046t8t.jpg)
 
 * 《[第 24 届国际 C 语言混乱代码大赛结果出炉](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=400466391&idx=1&sn=0f8c5d9588e08c6209849f1dd7ef86ab#wechat_redirect)》
 * 《[看完这些问题后，你还会说自己懂 C 语言么？](http://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=209396980&idx=1&sn=e8a83af6fa2c9a225c5bd60298fbcd04#rd)》
@@ -155,9 +155,9 @@
 
 ### 安卓
 
-> 2015 安卓 热门文章 Top 10 来自微信公众号 AndroidPD 「安卓应用频道」专注分享安卓应用相关内容，包括：安卓App开发、设计和行业资讯。
-> 
-> ![](http://ww4.sinaimg.cn/small/63918611gw1epb2c49yeej2046046wek.jpg)
+2015 安卓 热门文章 Top 10 来自微信公众号 AndroidPD 「安卓应用频道」专注分享安卓应用相关内容，包括：安卓App开发、设计和行业资讯。
+
+![](http://ww4.sinaimg.cn/small/63918611gw1epb2c49yeej2046046wek.jpg)
 
 * 《[谷歌做了一个艰难的决定：安卓系统不再用甲骨文的私有 Java API 了](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=402152164&idx=1&sn=f85c19aad39f3733b325ee12dfd4d64d&scene=21#wechat_redirect)》
 * 《[Android应用架构](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=401787978&idx=1&sn=d6a1ace7cea386ee082a8d1858f9bc49&scene=21#wechat_redirect)》
@@ -172,9 +172,9 @@
 
 ### iOS
 
-> 2015 iOS 热门文章 Top 10 来自微信公众号 iOSHub 「iOS大全」专注分享 iOS 和 Mac 相关内容，包括iOS和Swift开发技术文章、工具资源、产品设计和行业资讯。
-> 
-> ![](http://ww4.sinaimg.cn/small/63918611gw1epb2c8cw4jj2046046ab2.jpg)
+2015 iOS 热门文章 Top 10 来自微信公众号 iOSHub 「iOS大全」专注分享 iOS 和 Mac 相关内容，包括iOS和Swift开发技术文章、工具资源、产品设计和行业资讯。
+
+![](http://ww4.sinaimg.cn/small/63918611gw1epb2c8cw4jj2046046ab2.jpg)
 
 * 《[高效MacBook工作环境配置](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=211258978&idx=1&sn=14a90c8041c655b0f50cdda899de1aca&scene=21#wechat_redirect)》 
 * 《[iOS 开发者必不可少的 75 个工具](http://mp.weixin.qq.com/s?__biz=MzAxMzE2Mjc2Ng==&mid=401152602&idx=1&sn=6c7568b6771b25e3405e01768ca99dee&scene=21#wechat_redirect)》
@@ -189,9 +189,9 @@
 
 ### PHP
 
-> 2015 PHP 热门文章 Top 10 来自微信公众号 PHPDevs 「PHP开发者」专注分享PHP开发相关的技术文章和工具资源。
-> 
-> ![](http://ww1.sinaimg.cn/small/63918611gw1epb2cb1xq0j2046046dgv.jpg)
+2015 PHP 热门文章 Top 10 来自微信公众号 PHPDevs 「PHP开发者」专注分享PHP开发相关的技术文章和工具资源。
+
+![](http://ww1.sinaimg.cn/small/63918611gw1epb2cb1xq0j2046046dgv.jpg)
 
 * 《[PHP 底层的运行机制与原理](http://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=400392225&idx=1&sn=9a9a99f9e26f5cf2c5de43acf477386a&scene=21#wechat_redirect)》
 * 《[15个实用的PHP正则表达式](http://mp.weixin.qq.com/s?__biz=MzAwNjMxMTA5Mw==&mid=400821294&idx=1&sn=887249df12358dbbb5497acf44ca15c1&scene=21#wechat_redirect)》
@@ -206,9 +206,9 @@
 
 ### 极客
 
-> 2015 极客类 热门文章 Top 10 来自微信公众号 iGeekFan 「极客范」聚焦极客主题，分享各种新、奇、酷的东西。
-> 
-> ![](http://ww3.sinaimg.cn/mw690/bfdcef89gw1eqch9eef42j203w03v74e.jpg)
+2015 极客类 热门文章 Top 10 来自微信公众号 iGeekFan 「极客范」聚焦极客主题，分享各种新、奇、酷的东西。
+
+![](http://ww3.sinaimg.cn/mw690/bfdcef89gw1eqch9eef42j203w03v74e.jpg)
 
 * 《[同一个技术，我们用来做麻将机，而德国人用来……](http://mp.weixin.qq.com/s?__biz=MjM5OTY0NTY1Mg==&mid=209239029&idx=1&sn=a0e92e129bcab4bb6d304cffd9ab66d6&scene=21#wechat_redirect)》
 * 《[麻省理工的一帮疯子，真的实现了随意操控万物！](http://mp.weixin.qq.com/s?__biz=MjM5OTY0NTY1Mg==&mid=401140393&idx=1&sn=66d4c8b81c5f451a1655acc18a65b3b3&scene=21#wechat_redirect)》
